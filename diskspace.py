@@ -1,5 +1,5 @@
 # The following script is is monitor space on / dir
-# Author/Maintainer: Sambit Kumar Nayak
+# Author/Maintainer: Sambit Kumar Nayak & Krishna Chaitanya
 # Date: 02nd June 2020
 # + hostname will add the hostname automatically into the subject
 
